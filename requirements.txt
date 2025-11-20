@@ -1,0 +1,7 @@
+protobuf
+requests
+beautifulsoup4
+google-cloud-translate
+firebase-admin
+google-cloud-firestore
+google-auth
