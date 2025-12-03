@@ -119,6 +119,7 @@ def save_khutbah_to_firestore(khutbah):
 
     doc_data = {
         "id": khutbah_id,
+        "isApproved": False,
         "title": khutbah["title"],
         "text": khutbah["text"],
         "translations": translations,
